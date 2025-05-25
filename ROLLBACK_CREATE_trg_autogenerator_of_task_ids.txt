@@ -1,0 +1,6 @@
+/*Fecha: 24/05/2025
+Autor: Erika Sánchez 
+Descripción: trigger para autogenerar el ID
+*/
+
+drop trigger TASKS_APP.TRG_AUTOGENERATOR_OF_TASK_IDS;
